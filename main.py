@@ -20,8 +20,8 @@ import sys
 
 # The frozen front page, pinned. If either value stops matching, the run
 # fails loudly instead of delivering the wrong day's news.
-FROZEN_BYTES = 293645
-FROZEN_SHA256 = "4f697d321d57d03dcbab018b99e838696ecec49168ed82153ac97e8ff6f59987"
+FROZEN_BYTES = 293937
+FROZEN_SHA256 = "68d6e1d93c3ae5e1893d8b93e2b89143d518136b8f7fb4d4a8bebfaa9805b339"
 
 HARD_CAP = 1048576  # competition rule: images may not exceed 1 MiB
 SIGNATURE = b"\x89PNG\r\n\x1a\n"

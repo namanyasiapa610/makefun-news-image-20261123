@@ -2,9 +2,9 @@
 
 ## Duel internal: varian A vs varian B
 - **A** — 3 lead besar di atas (emas #34 + klaim IRGC #2 + COP31 #7), grid 10 kartu,
-  kotak THE DAY IN NUMBERS 3 kolom di pita bawah. 13 kartu utama, 293.645 B.
+  kotak THE DAY IN NUMBERS 3 kolom di pita bawah. 13 kartu utama, 293.937 B.
 - **B** — 2 lead besar + rel THE DAY IN NUMBERS vertikal di kanan; Alcaraz turun ke
-  ALSO ON. 12 kartu utama, 292.536 B.
+  ALSO ON. 12 kartu utama, 292.848 B.
 - Keterbacaan @300px: A menang — tanggal raksasa, 13 judul kartu terbaca, kotak
   angka lapang. Di B angka rel vertikal sempit (₹28.000 nyaris terpotong tepi
   kotak) dan satu kartu utama hilang.
@@ -31,7 +31,7 @@ Lawan: THE OPEN ATLAS (Ak14 G3) — 260.927 B · sha 9f370956… · sub
 | Kotak angka | strip angka armada | THE DAY IN NUMBERS: 6 angka, ≥4 mengikat kartu |
 | Pembingkaian klaim | standar | judul kartu #2 "IRGC Claims…", #5 "…, Zelenskiy said", kapal "still burns" |
 | DATE CHECK | ada | 7 buangan bernama+bertanggal + catatan silang story 30 |
-| Ukuran file | 260.927 B | 293.645 B (masih dalam target 170–300 KB) |
+| Ukuran file | 260.927 B | 293.937 B (masih dalam target 170–300 KB) |
 | Margin checker | — | 13/13 LOLOS |
 | Skor R1 akun | win rate 56,4% (gambar G1/G2) — G3 tanpa skor 1 jam = GAGAL aturan Brian | pengganti dibangun dari bedah final NI22 |
 

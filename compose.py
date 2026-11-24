@@ -315,10 +315,10 @@ def dotted_map(d, x, y, w_, h_, pinset):
 
 def header(d):
     d.rectangle([0, 0, W, 20], fill=INK)
-    f1 = fb(12)
-    d.text((14, 4), "THE DAY AT A GLANCE", font=f1, fill=SILVER_L)
+    f1 = fb(13)
+    d.text((14, 3), "THE DAY AT A GLANCE", font=f1, fill=SILVER_L)
     kick = "40 STORIES · 8 REGIONS · EVERY ONE FROM 23 NOVEMBER 2026"
-    d.text((W - 14 - tw(d, kick, f1), 4), kick, font=f1, fill=SILVER_L)
+    d.text((W - 14 - tw(d, kick, f1), 3), kick, font=f1, fill=SILVER_L)
     y = 24
     name = "THE DAY AT A GLANCE"
     fn = F(PF_BOLD, 20)
